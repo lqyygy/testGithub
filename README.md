@@ -11,5 +11,10 @@ my first test of github
 
 合并到主分支
 
+<<<<<<< HEAD
 同时在本地也有修改！
 这个是在github网页上修改的内容~！！
+=======
+这个是在github网页（这里面就没有冲突么？？）
+上修改的内容~！！
+>>>>>>> 8d0dc8f5f08f045ea80d1eca279e20ae13b65dd8
